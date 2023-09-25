@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "711918460858",
+    "firebase_url": "https://btvn6-b632b-default-rtdb.firebaseio.com",
+    "project_id": "btvn6-b632b",
+    "storage_bucket": "btvn6-b632b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711918460858:android:2452435e9698c0c4a58783",
+        "android_client_info": {
+          "package_name": "com.example.btvn6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5EyKBXmxB1W4KugNY93N-zxUjVzc-_Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
